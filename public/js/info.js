@@ -1,12 +1,13 @@
 const info = new Vue ({
     el: '#info',
     data: {
+        red: 'LINKEDIN',
         /* EQUIPO 1 */
         nombre1 : 'WOLF',
         rolscrum1 : 'Backend Developer',
         profesion1 : 'Ingeniero Electricista',
         deporte1: 'Trekking',
-        ciudad1: 'BMedellin',
+        ciudad1: 'Medellin',
         GitID1 : 'rlhardrock',
         /* EQUIPO 2 */
         nombre2 : 'WOLVERINE',
